@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Armed Forces</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        header {
+            background-color: #3EB489;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            text-align: center;
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+        .qualities {
+            margin-top: 40px;
+        }
+        .qualities h2 {
+            color: #333;
+            text-decoration: underline;
+        }
+        .qualities ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .qualities li {
+            margin-bottom: 10px;
+        }
+        .achievements {
+            margin-top: 40px;
+        }
+        .achievements h2 {
+            color: #333;
+            text-decoration: underline;
+        }
+        .achievements ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .achievements li {
+            margin-bottom: 10px;
+        }
+        footer {
+            background-color: #3B9C9C;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 5%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Indian Armed Forces</h1>
+    </header>
+    <div class="container">
+        <section id="army">
+            <h2>Indian Army</h2>
+            <p>The Indian Army is the land-based branch and the largest component of the Indian Armed Forces.</p>
+            <div class="qualities">
+                <h3>Admirable Qualities</h3>
+                <ul>
+                    <li>Courage</li>
+                    <li>Selflessness</li>
+                    <li>Discipline</li>
+                    <li>Integrity</li>
+                    <li>Resilience</li>
+                </ul>
+            </div>
+            <div class="achievements">
+                <h3>Achievements</h3>
+                <ul>
+                    <li>Recipient of numerous gallantry awards including Param Vir Chakra and Ashoka Chakra.</li>
+                    <li>Contributed significantly to UN peacekeeping missions.</li>
+                </ul>
+            </div>
+            <div class="important-dates">
+                <h3>Important Dates</h3>
+                <p>Establishment: April 1, 1895</p>
+                <p>Army Day: January 15</p>
+            </div>
+            <div class="wars">
+                <h3>Wars Fought</h3>
+                <ul>
+                    <li>Indo-Pakistani Wars</li>
+                    <li>Kargil War</li>
+                    <li>Operation Vijay</li>
+                </ul>
+            </div>
+        </section>
+        <section id="air-force">
+            <h2>Indian Air Force</h2>
+            <p>The Indian Air Force is the air arm of the Indian Armed Forces.</p>
+            <p>Role: The Indian Air Force is responsible for securing Indian airspace and conducting aerial warfare during armed conflicts. It also provides air support to ground forces.
+            Size: The IAF is one of the largest air forces in the world, with advanced aircraft and equipment.
+            Capabilities: The IAF operates a wide range of aircraft, including fighter jets, transport planes, helicopters, and reconnaissance aircraft.
+            Achievements: The IAF has played a crucial role in various conflicts and operations, demonstrating its professionalism and capabilities.
+            Important Dates: The Indian Air Force was officially established on October 8, 1932. Air Force Day is celebrated on October 8th each year.</p>
+        </section>
+        <section id="navy">
+            <h2>Indian Navy</h2>
+            <p>The Indian Navy is the naval branch of the Indian Armed Forces.</p>
+            <p>Role: The Indian Navy is the naval branch of the Indian Armed Forces. It is responsible for safeguarding India's maritime interests, securing its coastal borders, and projecting naval power.
+            Size: The Indian Navy operates a mix of surface ships, submarines, and aircraft.
+            Capabilities: The Indian Navy has a blue-water navy capability and operates aircraft carriers, destroyers, frigates, submarines, and maritime patrol aircraft.
+            Achievements: The Indian Navy has participated in various international operations, including anti-piracy missions and humanitarian assistance and disaster relief operations.
+            Important Dates: The Indian Navy was established on December 4, 1612. Navy Day is celebrated on December 4th every year.</p>
+        </section>
+        <section id="coast-guard">
+            <h2>Indian Coast Guard</h2>
+            <p>The Indian Coast Guard is a multi-mission organization, conducting round-the-year real-life operations at sea.</p>
+            <p>Role: The Indian Coast Guard is responsible for maritime law enforcement, search and rescue, and coastal security.
+            Size: The Indian Coast Guard operates a fleet of ships and aircraft for maritime surveillance and rescue operations.
+            Capabilities: The Indian Coast Guard conducts patrols to enforce maritime laws, prevent smuggling, protect marine environment, and ensure coastal security.
+            Achievements: The Indian Coast Guard has been involved in numerous rescue operations and has played a vital role in maritime security.
+            Important Dates: The Indian Coast Guard was formally established on February 1, 1977.</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Indian Armed Forces</p>
+    </footer>
+</body>
+</html>
