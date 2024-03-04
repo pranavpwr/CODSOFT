@@ -79,74 +79,106 @@
     </style>
 </head>
 <body>
-    <header>
-        <h1>Indian Armed Forces</h1>
-    </header>
-    <div class="container">
-        <section id="army">
-            <h2>Indian Army</h2>
-            <p>The Indian Army is the land-based branch and the largest component of the Indian Armed Forces.</p>
-            <div class="qualities">
-                <h3>Admirable Qualities</h3>
-                <ul>
-                    <li>Courage</li>
-                    <li>Selflessness</li>
-                    <li>Discipline</li>
-                    <li>Integrity</li>
-                    <li>Resilience</li>
-                </ul>
-            </div>
-            <div class="achievements">
-                <h3>Achievements</h3>
-                <ul>
-                    <li>Recipient of numerous gallantry awards including Param Vir Chakra and Ashoka Chakra.</li>
-                    <li>Contributed significantly to UN peacekeeping missions.</li>
-                </ul>
-            </div>
-            <div class="important-dates">
-                <h3>Important Dates</h3>
-                <p>Establishment: April 1, 1895</p>
-                <p>Army Day: January 15</p>
-            </div>
-            <div class="wars">
-                <h3>Wars Fought</h3>
-                <ul>
-                    <li>Indo-Pakistani Wars</li>
-                    <li>Kargil War</li>
-                    <li>Operation Vijay</li>
-                </ul>
-            </div>
-        </section>
-        <section id="air-force">
-            <h2>Indian Air Force</h2>
-            <p>The Indian Air Force is the air arm of the Indian Armed Forces.</p>
-            <p>Role: The Indian Air Force is responsible for securing Indian airspace and conducting aerial warfare during armed conflicts. It also provides air support to ground forces.
-            Size: The IAF is one of the largest air forces in the world, with advanced aircraft and equipment.
-            Capabilities: The IAF operates a wide range of aircraft, including fighter jets, transport planes, helicopters, and reconnaissance aircraft.
-            Achievements: The IAF has played a crucial role in various conflicts and operations, demonstrating its professionalism and capabilities.
-            Important Dates: The Indian Air Force was officially established on October 8, 1932. Air Force Day is celebrated on October 8th each year.</p>
-        </section>
-        <section id="navy">
-            <h2>Indian Navy</h2>
-            <p>The Indian Navy is the naval branch of the Indian Armed Forces.</p>
-            <p>Role: The Indian Navy is the naval branch of the Indian Armed Forces. It is responsible for safeguarding India's maritime interests, securing its coastal borders, and projecting naval power.
-            Size: The Indian Navy operates a mix of surface ships, submarines, and aircraft.
-            Capabilities: The Indian Navy has a blue-water navy capability and operates aircraft carriers, destroyers, frigates, submarines, and maritime patrol aircraft.
-            Achievements: The Indian Navy has participated in various international operations, including anti-piracy missions and humanitarian assistance and disaster relief operations.
-            Important Dates: The Indian Navy was established on December 4, 1612. Navy Day is celebrated on December 4th every year.</p>
-        </section>
-        <section id="coast-guard">
-            <h2>Indian Coast Guard</h2>
-            <p>The Indian Coast Guard is a multi-mission organization, conducting round-the-year real-life operations at sea.</p>
-            <p>Role: The Indian Coast Guard is responsible for maritime law enforcement, search and rescue, and coastal security.
-            Size: The Indian Coast Guard operates a fleet of ships and aircraft for maritime surveillance and rescue operations.
-            Capabilities: The Indian Coast Guard conducts patrols to enforce maritime laws, prevent smuggling, protect marine environment, and ensure coastal security.
-            Achievements: The Indian Coast Guard has been involved in numerous rescue operations and has played a vital role in maritime security.
-            Important Dates: The Indian Coast Guard was formally established on February 1, 1977.</p>
-        </section>
-    </div>
-    <footer>
-        <p>&copy; 2024 Indian Armed Forces</p>
-    </footer>
+<header>
+    <h1>Indian Armed Forces</h1>
+</header>
+<div class="container">
+    <section id="army">
+        <h2>Indian Army</h2>
+        <img src="https://c8.alamy.com/comp/F1R055/indian-army-together-F1R055.jpg" alt="Indian Army">
+        <p>The Indian Army is the land-based branch and the largest component of the Indian Armed Forces.</p>
+        <p>The Indian Army stands as an embodiment of courage, sacrifice, and unwavering dedication to the nation. With a legacy spanning centuries, it has been the guardian of India's sovereignty and integrity, safeguarding its borders and ensuring peace within. Comprising brave soldiers from diverse backgrounds and regions, the Indian Army reflects the rich cultural tapestry and unity of the nation.
+
+        At its core, the Indian Army symbolizes resilience and valor, facing myriad challenges with fortitude and determination. From defending the icy heights of the Himalayas to combating terrorism in the rugged terrains of Jammu and Kashmir, its soldiers exhibit unparalleled bravery in the face of adversity. Their commitment to duty, even in the most perilous situations, is a testament to their unwavering loyalty and patriotism.
+
+        Beyond safeguarding borders, the Indian Army plays a pivotal role in humanitarian missions and disaster relief operations, embodying compassion and empathy. Whether rescuing civilians stranded in flood-ravaged areas or providing aid during natural calamities, its selfless service resonates with the ethos of "Service Before Self."
+
+        Moreover, the Indian Army fosters a spirit of camaraderie and brotherhood among its ranks, transcending barriers of caste, creed, and religion. Each soldier, irrespective of rank, is bound by a shared sense of duty and camaraderie, fostering a cohesive force capable of overcoming any challenge.
+
+        The Indian Army's commitment to modernization and technological advancement further enhances its operational capabilities, ensuring it remains at the forefront of defense preparedness. Embracing innovation while upholding traditional values, it continues to evolve in response to evolving security threats and geopolitical dynamics.
+
+        Above all, the Indian Army embodies the aspirations and dreams of a billion people, standing tall as a beacon of hope and strength. Its soldiers, the true guardians of the nation, inspire reverence and admiration, reminding us that freedom comes at a price—one they are willing to pay without hesitation. In their courage, sacrifice, and unwavering resolve, we find the true essence of the Indian Army—a force unparalleled, a source of pride for every Indian. </p>
+        <div class="qualities">
+            <h3>Admirable Qualities</h3>
+            <ul>
+                <li>Courage</li>
+                <li>Selflessness</li>
+                <li>Discipline</li>
+                <li>Integrity</li>
+                <li>Resilience</li>
+            </ul>
+        </div>
+        <div class="achievements">
+            <h3>Achievements</h3>
+            <ul>
+                <li>Recipient of numerous gallantry awards including Param Vir Chakra and Ashoka Chakra.</li>
+                <li>Contributed significantly to UN peacekeeping missions.</li>
+            </ul>
+        </div>
+        <div class="important-dates">
+            <h3>Important Dates</h3>
+            <p>Establishment: April 1, 1895</p>
+            <p>Army Day: January 15</p>
+        </div>
+        <div class="wars">
+            <h3>Wars Fought</h3>
+            <ul>
+                <li>Indo-Pakistani Wars</li>
+                <li>Kargil War</li>
+                <li>Operation Vijay</li>
+            </ul>
+        </div>
+    </section>
+    <section id="air-force">
+        <h2>Indian Air Force</h2>
+        <img src="https://images.picxy.com/cache/2020/1/31/890cc611ba88cad937abb7f7e2c35530.jpg" alt="Indian Air Force">
+        <p>The Indian Air Force is the air arm of the Indian Armed Forces.</p>
+        <p>Role: The Indian Air Force is responsible for securing Indian airspace and conducting aerial warfare during armed conflicts. It also provides air support to ground forces.
+        Size: The IAF is one of the largest air forces in the world, with advanced aircraft and equipment.
+        Capabilities: The IAF operates a wide range of aircraft, including fighter jets, transport planes, helicopters, and reconnaissance aircraft.
+        Achievements: The IAF has played a crucial role in various conflicts and operations, demonstrating its professionalism and capabilities.
+        Important Dates: The Indian Air Force was officially established on October 8, 1932. Air Force Day is celebrated on October 8th each year.</p>
+        <p>The Indian Air Force (IAF) epitomizes excellence and valor in the skies, defending the nation's airspace with unmatched proficiency and dedication. As the aerial arm of India's defense forces, the IAF showcases unparalleled precision and technological prowess in safeguarding the nation's sovereignty.
+
+        Its fleet of state-of-the-art aircraft, manned by highly skilled pilots and personnel, stands as a symbol of India's capability to deter aggression and respond swiftly to emerging threats. From strategic reconnaissance missions to humanitarian assistance and disaster relief operations, the IAF's versatility and agility are commendable.
+
+        Moreover, the IAF's commitment to innovation and modernization continually elevates its operational capabilities, ensuring it remains a formidable force in the region. Its unwavering dedication to duty, even in the face of adversity, reflects the ethos of service and sacrifice ingrained within its ranks. The Indian Air Force, through its courage, professionalism, and unwavering resolve, remains a source of pride and inspiration for the nation.</p>
+    </section>
+    <section id="navy">
+        <h2>Indian Navy</h2>
+        <img src="https://media.gettyimages.com/id/1242877462/photo/indian-navy-officers-pose-for-a-group-picture-on-the-deck-of-the-indian-indigenous-aircraft.jpg?s=612x612&w=0&k=20&c=VYYkrwHKftSoY1u3-BE2AtaA7eybCe_5IiHyw-4g5n8=" alt="Indian Navy">
+        <p>The Indian Navy is the naval branch of the Indian Armed Forces.</p>
+        <p>Role: The Indian Navy is the naval branch of the Indian Armed Forces. It is responsible for safeguarding India's maritime interests, securing its coastal borders, and projecting naval power.
+        Size: The Indian Navy operates a mix of surface ships, submarines, and aircraft.
+        Capabilities: The Indian Navy has a blue-water navy capability and operates aircraft carriers, destroyers, frigates, submarines, and maritime patrol aircraft.
+        Achievements: The Indian Navy has participated in various international operations, including anti-piracy missions and humanitarian assistance and disaster relief operations.
+        Important Dates: The Indian Navy was established on December 4, 1612. Navy Day is celebrated on December 4th every year.</p>
+        <p>The Indian Navy epitomizes maritime prowess, defending the nation's interests and securing its vast coastline with unmatched dedication and expertise. Through its steadfast commitment to excellence, the Indian Navy ensures the protection of maritime trade routes, safeguarding vital economic interests and promoting regional stability.
+
+        With a rich heritage dating back centuries, the Indian Navy blends tradition with cutting-edge technology, continually enhancing its capabilities to meet contemporary security challenges. From conducting anti-piracy operations in the treacherous waters of the Indian Ocean to providing humanitarian assistance during natural disasters, the Navy's swift and decisive actions exemplify its role as a reliable guardian of the seas.
+
+        Moreover, the Indian Navy fosters international cooperation through joint exercises and maritime diplomacy, strengthening bonds of friendship and promoting global security. Its sailors, officers, and personnel exemplify professionalism, courage, and a deep sense of duty, embodying the values of honor, integrity, and service to the nation.</p>
+    </section>
+    <section id="coast-guard">
+        <h2>Indian Coast Guard</h2>
+        <img src="https://media.gettyimages.com/id/181827103/photo/an-indian-navy-kamov-ka-31-lands-on-the-flight-deck-of-uss-bunker-hill.jpg?s=612x612&w=0&k=20&c=tQ_ihypplGq6K7dr1FLLQFENXhu4e6j6p3QOLSAZUlI=" alt="Indian Coast Guard">
+        <p>The Indian Coast Guard is a multi-mission organization, conducting round-the-year real-life operations at sea.</p>
+        <p>Role: The Indian Coast Guard is responsible for maritime law enforcement, search and rescue, and coastal security.
+        Size: The Indian Coast Guard operates a fleet of ships and aircraft for maritime surveillance and rescue operations.
+        Capabilities: The Indian Coast Guard conducts patrols to enforce maritime laws, prevent smuggling, protect marine environment, and ensure coastal security.
+        Achievements: The Indian Coast Guard has been involved in numerous rescue operations and has played a vital role in maritime security.
+        Important Dates: The Indian Coast Guard was formally established on February 1, 1977.</p>
+        <p>The Indian Coast Guard exemplifies diligence, vigilance, and unwavering commitment to safeguarding the nation's maritime interests. With a mandate encompassing maritime security, search and rescue operations, environmental protection, and maritime law enforcement, it plays a pivotal role in ensuring the safety and security of India's vast coastline and exclusive economic zone.
+
+        Comprising dedicated personnel equipped with cutting-edge technology and expertise, the Indian Coast Guard operates tirelessly in diverse maritime conditions, from combating maritime threats to conducting humanitarian missions. Its swift response during emergencies, such as cyclones and maritime accidents, underscores its readiness and professionalism.
+
+        Furthermore, the Indian Coast Guard's proactive stance against maritime pollution and illegal activities demonstrates its commitment to environmental sustainability and maritime law enforcement. Through its relentless efforts, it upholds India's maritime sovereignty while fostering cooperation with regional and international partners.
+
+        The Indian Coast Guard's unwavering dedication and selfless service embody the spirit of guardianship, safeguarding India's maritime interests and ensuring the safety and prosperity of its coastal communities.</p>
+    </section>
+</div>
+<footer>
+    <p>&copy; 2024 Indian Armed Forces</p>
+</footer>
 </body>
 </html>
